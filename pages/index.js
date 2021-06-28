@@ -12,7 +12,10 @@ export default function Home() {
       <main className={styles.main}>
 
         
-        hello worddsfsdfsfd
+
+              gizli yazıyı bul
+
+        <h2 className="renk">  noob  </h2>
         
       </main>
 
