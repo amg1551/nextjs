@@ -15,7 +15,7 @@ export default function Home() {
         
         
         
-        <button type="button" onclick="alert('Hello world!')">Click Me!</button>
+        <button type="button" onclick="alert("amg")">Click Me!</button>
 
         
       </main>
