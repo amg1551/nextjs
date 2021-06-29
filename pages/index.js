@@ -15,8 +15,13 @@ export default function Home() {
         
         
         
-        <button type="button" onclick="alert("amg")">Click Me!</button>
+       <body>
 
+         <h1>The button Element</h1>
+
+       <button type="button" onclick="alert('Hello world!')">Click Me!</button>
+ 
+      </body>
         
       </main>
 
