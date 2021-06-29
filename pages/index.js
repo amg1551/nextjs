@@ -17,9 +17,15 @@ export default function Home() {
         
        <body>
 
-         <h1>The button Element</h1>
+         <h1>amg ın sitesi</h1>
 
-       <button type="button" onclick="alert('Hello world!')">Click Me!</button>
+    <button onclick="myFunction()">Try it</button>
+
+    <script>
+    function myFunction() {
+  alert("Hello! I am an alert box!");
+    }
+   </script>
  
       </body>
         
