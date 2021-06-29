@@ -22,9 +22,9 @@ export default function Home() {
            <button onclick="myFunction()">Try it</button>
 
 
-function myFunction() {
+
   alert("Press a button!");
-}
+
 
 
 
