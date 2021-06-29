@@ -19,7 +19,13 @@ export default function Home() {
 
          <h1>amg ın sitesi</h1>
 
-    <button onclick="myFunction()">Try it</button>
+           <button onclick="myFunction()">Try it</button>
+
+
+function myFunction() {
+  alert("Press a button!");
+}
+
 
 
  
