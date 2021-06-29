@@ -6,7 +6,7 @@ function MyApp({ Component, pageProps }) {
 
     
     function myFunction() {
-  alert("Hello! I am an alert box!");
+  confirm("Press a button!");
     }
    
 
