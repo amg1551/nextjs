@@ -5,9 +5,7 @@ function MyApp({ Component, pageProps }) {
 }
 
     
-    function myFunction() {
-  confirm("Press a button!");
-    }
+
    
 
 export default MyApp
