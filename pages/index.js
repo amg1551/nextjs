@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>wow</title>
+        <title>site içinde site</title>
         <link rel="icon" href="/indir.jpg" />
       </Head>
 
