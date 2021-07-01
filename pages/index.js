@@ -17,14 +17,12 @@ export default function Home() {
         
        <body>
 
-         <h1>amg ın sitesi</h1>
-
-           <button onClick={myFunction}>tıkla bana</button>
 
 
 
 
-           <iframe src="/index.html" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+           <iframe src="/index.html" allowtransparency="true" width="1500" height="800" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
  
       </body>
@@ -34,12 +32,5 @@ export default function Home() {
 
     </div>
   );
-
-  function myFunction() {
-    alert("neden bana tıklıyon");
-
-  }
-
-
 
 }
