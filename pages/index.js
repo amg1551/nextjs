@@ -5,17 +5,31 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>wow</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
 
         
+        
+        
+        
+       <body>
 
-              gizli yazıyı bul
+         <h1>amg ın sitesi</h1>
 
-        <h2 className="renk">  noob  </h2>
+           <button onclick="myFunction()">Try it</button>
+
+
+
+  alert("Press a button!");
+
+
+
+
+ 
+      </body>
         
       </main>
 
