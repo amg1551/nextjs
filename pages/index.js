@@ -6,7 +6,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>wow</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/indir.jpg" />
       </Head>
 
       <main className={styles.main}>
@@ -24,7 +24,7 @@ export default function Home() {
 
 
 
-
+           <iframe src="https://wowwowwow.vercel.app" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
  
       </body>
