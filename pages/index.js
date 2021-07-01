@@ -19,7 +19,7 @@ export default function Home() {
 
 
 
-
+              <h1>not: oyunu başlatırken mausunuzu oyunun tam ortasına koyun </h1>
 
 
            <iframe src="/index.html" allowtransparency="true" width="1500" height="800" frameborder="0" scrolling="no" allowfullscreen></iframe>
