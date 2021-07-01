@@ -24,7 +24,7 @@ export default function Home() {
 
 
 
-           <iframe src="https://wowwowwow.vercel.app" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+           <iframe src="/index.html" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
  
       </body>
