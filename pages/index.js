@@ -18,6 +18,21 @@ export default function Home() {
        <body>
 
 
+
+
+<nav>
+
+<link href="/dex.js">
+
+
+<a>oyunlar</a>
+
+</link>
+
+
+
+</nav>
+
        <h1>fnaf fan game. oyun alpha aşamasındadır</h1>
               <h1>not: oyunu başlatırken mausunuzu oyunun tam ortasına koyun </h1>
 
@@ -25,6 +40,9 @@ export default function Home() {
            <iframe src="/index.html" allowtransparency="true" width="1500" height="800" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
  
+
+
+
       </body>
         
       </main>
