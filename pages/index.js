@@ -22,7 +22,7 @@ export default function Home() {
 
 <nav>
 
-<link href="/dex.js">
+<link href="/">
 
 
 <a>oyunlar</a>
