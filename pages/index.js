@@ -20,18 +20,7 @@ export default function Home() {
 
 
 
-<nav>
 
-<link href="/">
-
-
-<a>oyunlar</a>
-
-</link>
-
-
-
-</nav>
 
        <h1>fnaf fan game. oyun alpha aşamasındadır</h1>
               <h1>not: oyunu başlatırken mausunuzu oyunun tam ortasına koyun </h1>
