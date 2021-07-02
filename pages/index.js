@@ -18,7 +18,7 @@ export default function Home() {
        <body>
 
 
-
+       <h1>fnaf fan game. oyun alpha aşamasındadır</h1>
               <h1>not: oyunu başlatırken mausunuzu oyunun tam ortasına koyun </h1>
 
 
